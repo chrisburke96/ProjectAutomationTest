@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-03T21:07:39 BST" name="Default suite" finished-at="2021-04-03T21:07:52 BST" duration-ms="13516">
+    <groups>
+    </groups>
+    <test started-at="2021-04-03T21:07:39 BST" name="Default test" finished-at="2021-04-03T21:07:52 BST" duration-ms="13516">
+      <class name="TestCase3">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase3@4f67eb2a]" started-at="2021-04-03T21:07:39 BST" name="setUp" finished-at="2021-04-03T21:07:41 BST" duration-ms="2267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="pressKeysTest()[pri:0, instance:TestCase3@4f67eb2a]" started-at="2021-04-03T21:07:41 BST" name="pressKeysTest" finished-at="2021-04-03T21:07:51 BST" duration-ms="10442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressKeysTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase3@4f67eb2a]" started-at="2021-04-03T21:07:51 BST" name="tearDown" finished-at="2021-04-03T21:07:52 BST" duration-ms="764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
